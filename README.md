@@ -1,5 +1,3 @@
----
-
 # Pegasus RAT by SKYNET
 
 **Pegasus RAT** is a premium, advanced Remote Access Tool (RAT) designed for comprehensive Android device control and management. Developed by SKYNET, Pegasus offers robust features for real-time monitoring, data access, full device control, and phishing/injection tools for credential capture. It provides an ideal solution for administrators and users looking for a discreet, powerful remote management tool.
